@@ -1,3 +1,6 @@
+## DC-Analyzer
+ DC-Analyzer is a tool to assist in exploring top best schemes for encoding desired amino acids and is encoded in Java program language. 
+
 ## Installation and Running 
   First download the file "DC_Analyzer.rar", and then execute the jar file "DC_Analyzer.jar" by the following command line: 
   
