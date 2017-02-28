@@ -14,5 +14,6 @@ a polar side chain (R, N, D, Q, E, H, K, S, and T), or a hydrophobic one (A, G, 
 ## Citation
 
 Please cite the following paper if you use this tool.
+
 Tang, L., Gao, H., Zhu, X., Wang, X., Zhou, M., Jiang, R., 2012. Construction of
 small-intelligent focused mutagenesis libraries using well-designed combinatorial degenerate primers. Biotechniques 52, 149–158.
