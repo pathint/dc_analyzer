@@ -1,6 +1,7 @@
 ## Installation and Running 
   First download the file "DC_Analyzer.rar", and then execute the jar file "DC_Analyzer.jar" by the following command line: 
-```How to Run the Code
+  
+```
 java -jar -Xmx1024m DC_Analyzer.jar
 ```
 
